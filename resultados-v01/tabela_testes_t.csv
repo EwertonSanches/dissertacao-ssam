@@ -1,0 +1,14 @@
+Comparação,Média A,Média B,Δ absoluto,Δ relativo (%),t,p-valor,Cohen's d,Tipo,p-ajustado (Holm),"Significativo (α=0,05)"
+"V/C 0,3 AV0% → V/C 0,3 AV5%",4.4,4.4,0.0,0.0,0.0,1.0,0.0,Principal (vs. baseline),1.0,False
+"V/C 0,3 AV0% → V/C 0,3 AV10%",4.4,6.4,2.0,45.5,-1.786,0.0914,0.799,Principal (vs. baseline),0.457,False
+"V/C 0,3 AV0% → V/C 0,3 AV15%",4.4,8.0,3.6,81.8,-2.749,0.0146,1.229,Principal (vs. baseline),0.0874,False
+"V/C 0,3 AV0% → V/C 0,3 AV20%",4.4,9.5,5.1,115.9,-4.594,0.0002,2.055,Principal (vs. baseline),0.0019,True
+"V/C 0,9 AV0% → V/C 0,9 AV5%",219.5,224.6,5.1,2.3,-0.505,0.6203,0.226,Principal (vs. baseline),1.0,False
+"V/C 0,9 AV0% → V/C 0,9 AV10%",219.5,229.1,9.6,4.4,-1.153,0.2642,0.516,Principal (vs. baseline),1.0,False
+"V/C 0,9 AV0% → V/C 0,9 AV15%",219.5,229.1,9.6,4.4,-0.894,0.3841,0.4,Principal (vs. baseline),1.0,False
+"V/C 0,9 AV0% → V/C 0,9 AV20%",219.5,248.1,28.6,13.0,-3.406,0.0032,1.523,Principal (vs. baseline),0.0224,True
+"V/C 0,3 AV0% → V/C 0,9 AV0%",4.4,219.5,215.1,4888.6,-33.95,0.0,15.183,"Secundário (V/C 0,3 vs 0,9)",0.0,True
+"V/C 0,3 AV5% → V/C 0,9 AV5%",4.4,224.6,220.2,5004.5,-27.736,0.0,12.404,"Secundário (V/C 0,3 vs 0,9)",0.0,True
+"V/C 0,3 AV10% → V/C 0,9 AV10%",6.4,229.1,222.7,3479.7,-40.381,0.0,18.059,"Secundário (V/C 0,3 vs 0,9)",0.0,True
+"V/C 0,3 AV15% → V/C 0,9 AV15%",8.0,229.1,221.1,2763.8,-25.231,0.0,11.284,"Secundário (V/C 0,3 vs 0,9)",0.0,True
+"V/C 0,3 AV20% → V/C 0,9 AV20%",9.5,248.1,238.6,2511.6,-42.45,0.0,18.984,"Secundário (V/C 0,3 vs 0,9)",0.0,True
